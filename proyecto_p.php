@@ -1,6 +1,7 @@
 <?php
 
 echo "que pedo";
-echo "Me dan ganas de cgar"
+echo "Me dan ganas de cgar";
+echo "y no me limpie";
 ?>
 
