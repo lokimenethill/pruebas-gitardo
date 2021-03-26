@@ -1,5 +1,5 @@
 <?php
-echo "otro pinshi comitwq+";
+echo "otro pinshi comitsdwq+d";
 echo "mamadas";
 echo "que pedsdo";
 echo "Me dan ganas de scgar";
