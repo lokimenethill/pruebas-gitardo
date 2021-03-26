@@ -2,6 +2,6 @@
 echo "otro pinshi comitwq+";
 echo "mamadas";
 echo "que pedo";
-echo "Me dan ganas de cgar";
+echo "Me dan ganas de scgar";
 ?>
 
