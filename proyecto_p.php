@@ -1,6 +1,7 @@
 <?php
+echo "otro pinshi comitsdwq+d";
 echo "mamadas";
-echo "que pedo";
-echo "Me dan ganas de cgar"
+echo "que pedsdo";
+echo "Me dan ganas de scgar";
 ?>
 
